@@ -9,7 +9,9 @@ Bienvenue dans ce guide d'apprentissage pratique de **NumPy (Numerical Python)**
 Ce dépôt a été conçu pour qu'un **débutant complet** comprenne exactement chaque concept, pourquoi il est utilisé et comment l'implémenter.
 
 <br>
+
 ---
+
 <br>
 
 #### 📌 Sommaire
@@ -29,7 +31,9 @@ Ce dépôt a été conçu pour qu'un **débutant complet** comprenne exactement 
 5. [Ressources Supplémentaires](#5-ressources-supplémentaires)
 
 <br>
+
 ---
+
 <br>
 
 ### 1. Pourquoi apprendre NumPy ? 💡
@@ -42,7 +46,9 @@ NumPy introduit le concept de **`ndarray`** (N-dimensional array) :
 - **Vectorisation :** Plus besoin de boucles `for` lentes. Les opérations mathématiques s'appliquent sur des millions de données en une seule opération CPU (écrite en C).
 
 <br>
+
 ---
+
 <br>
 
 ### 2. Installation Professionnelle ⚙️
@@ -79,7 +85,9 @@ print(np.__version__)
 ```
 
 <br>
+
 ---
+
 <br>
 
 ### 3. Structure de la Formation Interactive 📂
@@ -99,7 +107,9 @@ Pour rendre l'apprentissage progressif et structuré, le code initial a été di
 | 📁 **[08_donnees_manquantes.py](file:///j:/www/python/Numpy/08_donnees_manquantes.py)** | Chapitre 8 | Gestion des valeurs `NaN` et des tableaux masqués (`np.ma`). |
 
 <br>
+
 ---
+
 <br>
 
 ### 4. Chapitres de Cours
@@ -135,7 +145,9 @@ Apprenez à générer des structures de données de base.
   ```
 
 <br>
+
 ---
+
 <br>
 
 #### Chapitre 2 : Propriétés des Tableaux
@@ -159,7 +171,9 @@ Découvrez comment interroger la structure d'un tableau NumPy.
   ```
 
 <br>
+
 ---
+
 <br>
 
 #### Chapitre 3 : Génération Aléatoire
@@ -188,7 +202,9 @@ Générez des données aléatoires pour simuler des variables statistiques.
   ```
 
 <br>
+
 ---
+
 <br>
 
 #### Chapitre 4 : Calculs et Opérations
@@ -207,7 +223,9 @@ Effectuez des calculs arithmétiques simples ou complexes sur des matrices.
   ```
 
 <br>
+
 ---
+
 <br>
 
 #### Chapitre 5 : Indexation et Slicing
@@ -226,7 +244,9 @@ Sélectionnez et filtrez vos données avec précision.
   ```
 
 <br>
+
 ---
+
 <br>
 
 #### Chapitre 6 : Fonctions Statistiques
@@ -245,7 +265,9 @@ Calculez des agrégats (somme, moyenne, etc.) globalement ou par dimension.
   ```
 
 <br>
+
 ---
+
 <br>
 
 #### Chapitre 7 : Modification de Forme
@@ -269,7 +291,9 @@ Réorganisez les dimensions de vos tableaux de données.
   ```
 
 <br>
+
 ---
+
 <br>
 
 #### Chapitre 8 : Données Manquantes (NaN)
@@ -290,7 +314,9 @@ Gérez efficacement les trous dans vos jeux de données.
   ```
 
 <br>
+
 ---
+
 <br>
 
 ### 5. Ressources Supplémentaires 📚
@@ -299,3 +325,4 @@ Pour aller encore plus loin avec NumPy :
 - 🔗 [Documentation officielle de NumPy](https://numpy.org/doc/stable/)
 - 🔗 [Tutoriels interactifs sur W3Schools](https://www.w3schools.com/python/numpy_intro.asp)
 - 🔗 [Cours express NumPy sur DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+
